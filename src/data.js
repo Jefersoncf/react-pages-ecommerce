@@ -1,7 +1,8 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://1.bp.blogspot.com/-xiDBIxJSD6c/W5_CkhgCakI/AAAAAAAANZg/C3upWaI--eQeI0N7K26fOd7O22y7k6yKgCLcBGAs/s640/biq%2Bd.png",
+    img: 'https://www.designi.com.br/images/preview/10002473.jpg',
+    // img: "https://1.bp.blogspot.com/-xiDBIxJSD6c/W5_CkhgCakI/AAAAAAAANZg/C3upWaI--eQeI0N7K26fOd7O22y7k6yKgCLcBGAs/s640/biq%2Bd.png",
     // img: "https://i.ibb.co/XsdmR2c/1.png",
     title: "SUMMER SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
